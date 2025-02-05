@@ -8,6 +8,7 @@ import About from './About';
 import Contact from './Contact';
 import Project from './Project';
 import Navbar from './Navbar';
+import Hireme from './Hireme';
 import Darkmode from './Darkmode';
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/project" element={<Project />} />
+          <Route path="/hireme" element={<Hireme />} />
         </Routes>
       </BrowserRouter>
       

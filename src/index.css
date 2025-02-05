@@ -186,6 +186,7 @@ font-weight: 700;
 .new_btn a {
   text-decoration: none;
   color: #fff;
+  display: block;
 }
 /* cpntact form */
 
@@ -196,3 +197,11 @@ font-weight: 700;
   border-radius: 7px;
 }
 
+
+/* hire me css */
+
+.hireme{padding:20px;}
+
+.dark-theme .hireme p{color:#fff;}
+
+.dark-theme .hireme h3{color:#fff;}

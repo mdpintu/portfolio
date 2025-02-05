@@ -16,7 +16,7 @@ const Home = () => {
     <>
 
 
-      <Comman title="HELLO I'M M PINTU" imgsrc={web} subTitle="A UI Developer & <br> Design Enthusiast" link="Download CV" href={resume} />
+      <Comman title="HELLO I'M MOHD PINTU" imgsrc={web} subTitle="A UI Developer & <br> Design Enthusiast" link="Download CV" href={resume} />
 
       {/* <h1>{count}</h1>
   <button onClick={IncNum}>+</button>
