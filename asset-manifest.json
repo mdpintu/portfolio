@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.59043950.css",
+    "main.js": "/portfolio/static/js/main.26fa1a17.js",
+    "static/js/787.56d9acf9.chunk.js": "/portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/img4.png": "/portfolio/static/media/img4.0840c4d7c1c3a94bcaac.png",
+    "static/media/me-new.png": "/portfolio/static/media/me-new.6feeaea5ae2d185272bf.png",
+    "static/media/img3.png": "/portfolio/static/media/img3.387660793951b5b0f341.png",
+    "static/media/Mohd_Pintu_React_Developer_8Years.pdf": "/portfolio/static/media/Mohd_Pintu_React_Developer_8Years.2d5ff4fd8f7ed979ea1c.pdf",
+    "static/media/yakult.jpg": "/portfolio/static/media/yakult.b88404b5c43bf187ae51.jpg",
+    "static/media/my-image2.jpg": "/portfolio/static/media/my-image2.aa745d9f541863dbf16c.jpg",
+    "static/media/protinex.jpg": "/portfolio/static/media/protinex.4b6bad2f20c740d40a9b.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.59043950.css.map": "/portfolio/static/css/main.59043950.css.map",
+    "main.26fa1a17.js.map": "/portfolio/static/js/main.26fa1a17.js.map",
+    "787.56d9acf9.chunk.js.map": "/portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59043950.css",
+    "static/js/main.26fa1a17.js"
+  ]
+}
