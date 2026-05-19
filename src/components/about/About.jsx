@@ -23,16 +23,23 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
 
-            <article className='about__card'>
+            {/* <article className='about__card'>
               <GiGraduateCap className='about__icon' />
               <h5>Degree</h5>
               <small>Master of Computer Applications (MCA) <br /><i>ISBM University Chhattisgarh.</i></small>
+            </article> */}
+            <article className='about__card'>
+              <GiGraduateCap className='about__icon' />
+              <h5>Degree</h5>
+              <small>BSC(IT) Information Technology <br /><i>ISBM University Chhattisgarh.</i></small>
             </article>
 
             <article className='about__card'>
               <BsBookmarkStar className='about__icon' />
-              <h5>Current GPA</h5>
-              <small>8.13</small>
+              {/* <h5>Current GPA</h5>
+              <small>8.13</small> */}
+              <h5>Percentage</h5>
+              <small>62.5</small>
             </article>
 
             <article className='about__card'>
@@ -40,8 +47,8 @@ const About = () => {
               <h5>Domains</h5>
               <small>
                 <ul>
-                  <li>Net Centric</li>
-                  <li>Mobile Applications</li>
+                  <li>Frontend Development</li>
+                  <li>Software Development</li>
                 </ul>
               </small>
             </article>
@@ -50,12 +57,12 @@ const About = () => {
 
           </div>
           <p>
-            I'm a <b>Software Developer</b> at the ISBM University Chhattisgarh.
-            I'm an enthusiastic and driven Software Developer
-            and expand my technical skills.
-            With a strong academic foundation in software Developer and hands-on experience in various programming languages,
-            I am eager to contribute to innovative projects and learn from experienced professionals in the industry. I am a quick learner who is always ready to face challenges.
+            I am a passionate and self-motivated <b>Frontend & Software Developer</b> with a strong academic background from ISBM University, Chhattisgarh.
+            I specialize in developing responsive, user-friendly, and modern web applications using the latest frontend technologies.
 
+            With hands-on experience in HTML5, CSS3, JavaScript, React.js, Bootstrap, WordPress, and other web technologies, I am always eager to enhance my technical expertise and contribute to innovative projects.
+
+            I am a quick learner, problem solver, and team player who enjoys taking on new challenges and continuously improving both technical and professional skills.
           </p>
 
         </div>
