@@ -23,23 +23,21 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
 
-            {/* <article className='about__card'>
+            <article className='about__card'>
               <GiGraduateCap className='about__icon' />
               <h5>Degree</h5>
               <small>Master of Computer Applications (MCA) <br /><i>ISBM University Chhattisgarh.</i></small>
-            </article> */}
-            <article className='about__card'>
+            </article>
+            {/* <article className='about__card'>
               <GiGraduateCap className='about__icon' />
               <h5>Degree</h5>
               <small>BSC(IT) Information Technology <br /><i>ISBM University Chhattisgarh.</i></small>
-            </article>
+            </article> */}
 
             <article className='about__card'>
               <BsBookmarkStar className='about__icon' />
-              {/* <h5>Current GPA</h5>
-              <small>8.13</small> */}
-              <h5>Percentage</h5>
-              <small>62.5</small>
+              <h5>Current GPA</h5>
+              <small>9.13</small>
             </article>
 
             <article className='about__card'>

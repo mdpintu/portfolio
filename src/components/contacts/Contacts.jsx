@@ -1,6 +1,7 @@
 import React from 'react'
 import './contacts.css'
 import { MdOutlineEmail } from 'react-icons/md'
+import { FiPhone } from "react-icons/fi";
 import { useRef } from 'react';
 // import emailjs from '@emailjs/browser';
 
@@ -29,6 +30,10 @@ const Contacts = () => {
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>mdpintudl@gmail.com</h5>
+            <br />
+            <FiPhone className='contact__option-icon' />
+            <h4>Mobile No</h4>
+            <h5>+91 8851443850</h5>
             <a href="mailto:mdpintudl@gmail.com">Send a message</a>
           </article>
         </div>
