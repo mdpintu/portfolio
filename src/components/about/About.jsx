@@ -36,8 +36,8 @@ const About = () => {
 
             <article className='about__card'>
               <BsBookmarkStar className='about__icon' />
-              <h5>Current GPA</h5>
-              <small>9.13</small>
+              <h5>Percentage</h5>
+              <small>69.05%</small>
             </article>
 
             <article className='about__card'>
@@ -47,6 +47,9 @@ const About = () => {
                 <ul>
                   <li>Frontend Development</li>
                   <li>Software Development</li>
+                  <li>Reactjs Development</li>
+                  <li>UI Development</li>
+                  
                 </ul>
               </small>
             </article>
