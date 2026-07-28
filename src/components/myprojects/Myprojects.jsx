@@ -66,7 +66,7 @@ const Myprojects = () => {
             <img src={IMG4} alt="" />
           </div>
           <h3>My Portfolio</h3>
-          <small className='text-light'>ReactJs | HTML | Tailwind CSS | Bootstrap</small>
+          <small className='text-light'>ReactJs | Redux | HTML | Tailwind CSS | Bootstrap5</small>
           <div className="portfolio__item-cta">
             <a href="https://github.com/mdpintu/portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
             <a href="https://mdpintu.github.io/portfolio" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>

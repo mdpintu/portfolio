@@ -30,13 +30,13 @@ const About = () => {
             </article>
             {/* <article className='about__card'>
               <GiGraduateCap className='about__icon' />
-              <h5>Degree</h5>
-              <small>BSC(IT) Information Technology <br /><i>ISBM University Chhattisgarh.</i></small>
+              <h5>Percentage</h5>Obtained Marks = 737 + 754 + 769 = 2260
+              <small>62.78%</small>Maximum Marks = 1200 + 1200 + 1200 = 3600
             </article> */}
 
             <article className='about__card'>
               <BsBookmarkStar className='about__icon' />
-              <h5>Percentage</h5>
+              <h5>Percentage</h5> {/* Marks Obtained: 1968 /// Maximum Marks: 2850*/}
               <small>69.05%</small>
             </article>
 
@@ -46,8 +46,8 @@ const About = () => {
               <small>
                 <ul>
                   <li>Frontend Development</li>
+                  <li>React js Development</li>
                   <li>Software Development</li>
-                  <li>Reactjs Development</li>
                   <li>UI Development</li>
                   
                 </ul>
@@ -55,15 +55,13 @@ const About = () => {
             </article>
 
 
-
           </div>
           <p>
-            I am a passionate and self-motivated <b>Frontend & Software Developer</b> with a strong academic background from ISBM University, Chhattisgarh.
-            I specialize in developing responsive, user-friendly, and modern web applications using the latest frontend technologies.
+            I am a passionate and self-motivated <strong>Senior Frontend & React.js Developer</strong> with 6+ years of experience in designing, developing, and maintaining responsive, user-friendly, and high-performance web applications. I hold an MCA degree from ISBM University and have hands-on experience delivering enterprise solutions as well as Government of India projects.
 
-            With hands-on experience in HTML5, CSS3, JavaScript, React.js, Bootstrap, WordPress, and other web technologies, I am always eager to enhance my technical expertise and contribute to innovative projects.
+            My expertise includes <strong>React.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5, jQuery, RESTful API Integration, WordPress, PHP, MySQL, Git, and GitHub</strong>. I enjoy building reusable components, optimizing application performance, and creating modern, accessible, and mobile-first user interfaces.
 
-            I am a quick learner, problem solver, and team player who enjoys taking on new challenges and continuously improving both technical and professional skills.
+            I am a quick learner, problem solver, and collaborative team player who is passionate about adopting new technologies, solving real-world challenges, and delivering high-quality digital solutions that provide an excellent user experience.
           </p>
 
         </div>
