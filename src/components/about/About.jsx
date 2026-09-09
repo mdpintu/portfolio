@@ -57,9 +57,9 @@ const About = () => {
 
           </div>
           <p>
-            I am a passionate and self-motivated <strong>Senior Frontend & React.js Developer</strong> with 6+ years of experience in designing, developing, and maintaining responsive, user-friendly, and high-performance web applications. I hold an MCA degree from ISBM University and have hands-on experience delivering enterprise solutions as well as Government of India projects.
+            I am a passionate and self-motivated <strong>Senior Frontend & React.js Developer</strong> with 8+ years of experience in designing, developing, and maintaining responsive, user-friendly, and high-performance web applications. I hold an MCA degree from ISBM University and have hands-on experience delivering enterprise solutions as well as Government of India projects.
 
-            My expertise includes <strong>React.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3, Bootstrap 5, jQuery, RESTful API Integration, WordPress, PHP, MySQL, Git, and GitHub</strong>. I enjoy building reusable components, optimizing application performance, and creating modern, accessible, and mobile-first user interfaces.
+            My expertise includes <strong>React.js, Redux Toolkit, JavaScript (ES6), HTML5, CSS3, Bootstrap 5, jQuery, RESTful API Integration, WordPress, PHP, MySQL, Git, and GitHub</strong>. I enjoy building reusable components, optimizing application performance, and creating modern, accessible, and mobile-first user interfaces.
 
             I am a quick learner, problem solver, and collaborative team player who is passionate about adopting new technologies, solving real-world challenges, and delivering high-quality digital solutions that provide an excellent user experience.
           </p>
