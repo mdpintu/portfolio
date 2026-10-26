@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1393319d.css",
+    "main.css": "/portfolio/static/css/main.745b1aa6.css",
     "main.js": "/portfolio/static/js/main.9208e85f.js",
     "static/js/787.56d9acf9.chunk.js": "/portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/img4.png": "/portfolio/static/media/img4.0840c4d7c1c3a94bcaac.png",
@@ -13,12 +13,12 @@
     "static/media/Md_Pintu_Frontend_Developer_Resume_8_years_Experience.docx": "/portfolio/static/media/Md_Pintu_Frontend_Developer_Resume_8_years_Experience.09e950d7ae62bbab5b4d.docx",
     "static/media/protinex.jpg": "/portfolio/static/media/protinex.4b6bad2f20c740d40a9b.jpg",
     "index.html": "/portfolio/index.html",
-    "main.1393319d.css.map": "/portfolio/static/css/main.1393319d.css.map",
+    "main.745b1aa6.css.map": "/portfolio/static/css/main.745b1aa6.css.map",
     "main.9208e85f.js.map": "/portfolio/static/js/main.9208e85f.js.map",
     "787.56d9acf9.chunk.js.map": "/portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1393319d.css",
+    "static/css/main.745b1aa6.css",
     "static/js/main.9208e85f.js"
   ]
 }
