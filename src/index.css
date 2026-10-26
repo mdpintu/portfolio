@@ -158,6 +158,11 @@ img {
 
 @media screen and (max-width: 600px) {
 
+     section {
+
+        margin-top: 2rem;
+    }
+
     .container {
 
         width: var(--container-width-sm);
