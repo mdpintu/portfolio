@@ -2,7 +2,7 @@ import React from 'react'
 import './myprojects.css'
 import yakult from '../../assets/yakult.jpg'
 import protinex from '../../assets/protinex.jpg'
-import IMG3 from '../../assets/img3.png'
+import thriving from '../../assets/thriving.png'
 import IMG4 from '../../assets/img4.png'
 import informatics from '../../assets/informatics.png'
 import uxdt_giudeline from '../../assets/uxdt-guideline.png'
@@ -63,6 +63,18 @@ const Myprojects = () => {
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
+            <img src={thriving} alt="" />
+          </div>
+          <h3>Thriving Tables</h3>
+          <small className='text-light'>Wordpress | HTML5 | CSS3 | JS ES6 | Bootstrap5</small>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/mdpintu/portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
+            <a href="https://thrivingtables.com/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>
+          </div>
+
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
           <h3>My Portfolio</h3>
@@ -73,7 +85,7 @@ const Myprojects = () => {
           </div>
 
         </article>
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
@@ -84,7 +96,7 @@ const Myprojects = () => {
             <a href="https://mdpintu.github.io/my-resume/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>
           </div>
 
-        </article>
+        </article> */}
       </div>
     </section>
   )
